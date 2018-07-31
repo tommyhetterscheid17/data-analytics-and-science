@@ -1,4 +1,3 @@
-# verandering van tommy
 # Data Analytics & Science
 > Training material and references for Data Analytics and Data Science with Python
 
